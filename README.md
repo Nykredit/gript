@@ -1,4 +1,8 @@
-# GRIPT - Angular Gulp Sass Typescript application builder
+# GRIPT - Angular Gulp Sass Typescript application builder - OBSOLETE
+
+## Obsolete notice
+
+This project is obsolete.
 
 [![npm](https://img.shields.io/npm/v/gript.svg)](http://npmjs.com/package/gript)
 [![npm](https://img.shields.io/npm/dm/gript.svg)](http://npmjs.com/package/gript)
